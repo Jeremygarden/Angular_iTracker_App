@@ -1,14 +1,3 @@
-var lineRouteQuery = {
-	"Red Line" : "route=Red",
-	"Orange Line" : "route=Orange",
-	"Blue Line" : "route=Blue",
-	"Green Line-B": "route=Green-B",
-	"Green Line-C": "route=Green-C",
-	"Green Line-D": "route=Green-D",
-	"Green Line-E": "route=Green-E"
-};
-
-
 
 (function() {
 
